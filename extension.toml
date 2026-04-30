@@ -1,0 +1,11 @@
+id = "lotus"
+name = "Lotus"
+version = "0.1.0"
+schema_version = 1
+authors = ["Gabriel <gabriel@minatel.dev>"]
+description = "Syntax highlighting and LSP support for the Lotus programming language."
+repository = "https://github.com/SrGaabriel/lotus"
+
+[language_servers.lopus]
+name = "Lopus"
+language = "Lotus"
