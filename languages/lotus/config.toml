@@ -1,5 +1,4 @@
 name = "Lotus"
-grammar = "lotus"
 path_suffixes = ["lo"]
 line_comments = ["// "]
 block_comments = ["/* ", " */"]
