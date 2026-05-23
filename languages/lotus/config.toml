@@ -1,5 +1,5 @@
 name = "Lotus"
-path_suffixes = ["lo"]
+path_suffixes = ["lt"]
 line_comments = ["// "]
 block_comments = ["/* ", " */"]
 autoclose_before = ",=)]}"
